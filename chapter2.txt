@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 i am a programmer ,working at full satck developertouch
+=======
+i am a programmer ,working at full stack developer~ kumar
+>>>>>>> alien-plot
